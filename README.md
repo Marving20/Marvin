@@ -1,2 +1,2 @@
 # MarvingaleanoUnivo
-mi primera pagina bonita responsive
+https://marving20.github.io/MarvingaleanoUnivo/
